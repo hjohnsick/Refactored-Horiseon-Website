@@ -10,5 +10,5 @@ This is the repository for the refactored Horiseon Website.  Additions have been
 ### Link to Hosted Site:
 [Horiseon Website](https://hjohnsick.github.io/Refactored-Horiseon-Website/)
 
-### Image of Horiseon Website
+### Image of Horiseon Website:
 ![Horiseon Website](./assets/images/01-html-css-git-homework-demo.png)
